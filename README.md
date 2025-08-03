@@ -8,14 +8,7 @@ chmod +x recon.sh
 ./recon.sh -f targets.txt                     # Scan from a list
 ./recon.sh -c                                 # Clean output directory
 #### you can modify script check more ftp to detect more vulnerabilities or use other ports to make full scan 
-Output_sample--
-   ____  __  _______/ /__  (_)
-  / __ \/ / / / ___/ / _ \/ /
- / / / / /_/ / /__/ /  __/ /
-/_/ /_/\__,_/\___/_/\___/_/   v3.4.6
-
-                projectdiscovery.io
-
+Output_sample:-
 [WRN] Found 1 template[s] loaded with deprecated paths, update before v3 for continued support.
 [INF] Current nuclei version: v3.4.6 (outdated)
 [INF] Current nuclei-templates version: v10.2.6 (latest)
